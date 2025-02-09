@@ -3,6 +3,5 @@ google-generativeai
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
-google-auth-transport
-googleapiclient
-google-generativeai
+google-api-python-client
+email-validator
