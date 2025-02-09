@@ -1,0 +1,22 @@
+Terms of Service for Gmail Genie
+1. Acceptance of Terms
+By accessing or using Gmail Genie ("Service"), you agree to comply with these Terms of Service ("Terms"). If you do not agree, please refrain from using the Service.
+
+2. Description of Service
+The Service provides functionalities such as:
+
+Automating email sending based on user commands.
+Summarizing received emails for quick insights.
+Interacting with your Gmail account securely through OAuth 2.0 authentication.
+3. User Responsibilities
+Users must comply with all applicable laws when using this Service.
+Users must not engage in unauthorized activities such as sending spam, phishing emails, or violating Gmail's policies.
+4. Data Usage & Privacy
+The Service only accesses user data after explicit consent via OAuth 2.0 authentication.
+Email content is processed in real-time but not stored or shared with third parties.
+Refer to our Privacy Policy for more details on data handling.
+5. Modifications to Terms
+We reserve the right to update or modify these Terms at any time. If significant changes occur, users will be notified accordingly.
+
+6. Contact Information
+For inquiries or support, contact us at: 2217024@nec.edu.in
